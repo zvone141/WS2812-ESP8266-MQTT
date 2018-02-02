@@ -9,8 +9,8 @@
 
 CRGB leds[NUM_LEDS];
 
-const char* ssid = "linksys";
-const char* password = "odjebise";
+const char* ssid = "********";
+const char* password = "********";
 const char* mqtt_server = "broker.mqtt-dashboard.com";
 
 
